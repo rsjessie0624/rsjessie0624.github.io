@@ -1,35 +1,46 @@
-# "Willpower Instinct" Reading Notes
+---
+layout: post
+title:  "Willpower Instinct Reading Notes"
+categories: Reading
+tag: Reading
+---
+
+
+{:toc}
+
+
+
 
 ## 1.1 What is Willpower
-*Willpower is a biological instinct, like stress, that evolved to help us protect (the wiser version of)  ourselves from (the impulsive version of) ourselves.*
+>*Willpower is a biological instinct, like stress, that evolved to help us protect (the wiser version of)  ourselves from (the impulsive version of) ourselves.*
 
 Willpower=I will+I won't
 
 
-## 2.1 How to Get Willpower
-*Self-control is like a muscle. It gets tired from use, but regular exercise makes it stronger.*
+## 2.1 Get Willpower
+>*Self-control is like a muscle. It gets tired from use, but regular exercise makes it stronger.*
 
 ### 2.1.1 A willpower Workout
-	- Make sure that your body is well fueled with food! 
-	- Pick something relative unimportant as daily willpower challenges, which will allow you to exercise the muscle of self-control without the internal angst that derails so many of our attempts to change.
-	- Try your best to notice what you are about to do, and choose to do the more difficult thing instead of the easiest.
-	- Is your exhaustion real? The next time you find yourself “too tired” to exert self-control, examine whether you can go beyond that first feeling of fatigue to take one more step.
+1. - Make sure that your body is well fueled with food! 
+1. - Pick something relative unimportant as daily willpower challenges, which will allow you to exercise the muscle of self-control without the internal angst that derails so many of our attempts to change.
+1. - Try your best to notice what you are about to do, and choose to do the more difficult thing instead of the easiest.
+1. - Is your exhaustion real? The next time you find yourself “too tired” to exert self-control, examine whether you can go beyond that first feeling of fatigue to take one more step.
 	
 ### 2.1.2 Five-minute Meditation
-	-Focus on your breath using the words “inhale” and “exhale” “exhale” in your mind. 
-    -When your mind wanders, notice, and bring it back to the breath. 
-    -Don’t worry if your focus isn’t perfect when meditating. Just practice coming back to the breath, again and again.
+1. Focus on your breath using the words “inhale” and “exhale” “exhale” in your mind. 
+1. When your mind wanders, notice, and bring it back to the breath. 
+1. Don’t worry if your focus isn’t perfect when meditating. Just practice coming back to the breath, again and again.
 
 ### 2.1.3 Slow Your Breath
-	-Slow your breathing down to four to six breaths per minute. 
-	-Slowing the breath down activates the prefrontal cortex and increases heart rate variability, which helps shift the brain and body from a state of stress to self-control mode.
+1. Slow your breathing down to four to six breaths per minute. 
+1. Slowing the breath down activates the prefrontal cortex and increases heart rate variability, which helps shift the brain and body from a state of stress to self-control mode.
 
 ### 2.1.4 Willpower Fill-up
-	-Get active outdoors for five minutes to reduce stress, improve your mood, and boost motivation
-	-Even just a walk around the block
+1. Get active outdoors for five minutes to reduce stress, improve your mood, and boost motivation
+1. Even just a walk around the block
 
 ## 3.1 Virtue and Vice
-*It’s just human nature—we resist rules imposed by others for our own good.*
+>*It’s just human nature—we resist rules imposed by others for our own good.*
 
 ### 3.1.1 Moral Licensing
 
@@ -55,8 +66,8 @@ Willpower=I will+I won't
 - Reward system gets much more excited about a possible big win than a guaranteed smaller reward, and it will motivate us to do whatever provides the chance to win.
 
 ### 4.1.2 Willpower Experiments
-	-Dopaminize your “I will” power challenge. If there’s something you’ve been putting off, motivate yourself by linking it with something that gets your dopamine neurons firing.
-	-Test the promise of reward. Mindfully indulge in something your brain tells you will make you happy but that never seems to satisfy (e.g., snack food, shopping, television, and online time-wasters). Does reality match the brain’s promises?
+1. Dopaminize your “I will” power challenge. If there’s something you’ve been putting off, motivate yourself by linking it with something that gets your dopamine neurons firing.
+1. Test the promise of reward. Mindfully indulge in something your brain tells you will make you happy but that never seems to satisfy (e.g., snack food, shopping, television, and online time-wasters). Does reality match the brain’s promises?
 
 ## 5.1 Stress Induces Indulgence
 ### 5.1.1 Brain Tries Everything to Make You FEEL Happy
@@ -67,7 +78,7 @@ Willpower=I will+I won't
 
 
 ### 5.1.2 Willpower Experiments
-	-Voice reminder: To prevent you from falling into the old routine, you can make a voice memo after finshing  a willpower chanllenge, describing how good you feel after doing the right things.
+- Voice reminder: To prevent you from falling into the old routine, you can make a voice memo after finshing  a willpower chanllenge, describing how good you feel after doing the right things.
 	
 ### 5.1.3 How to Avoid a Downward Spiral of Guilt
 1. What are you feeling? Can you remember how you felt immediately after the failure? How would you describe that? Notice if self-criticism comes up, and if it does, what you say to yourself. 
@@ -93,9 +104,9 @@ Willpower=I will+I won't
 - 	We think about our future selves like different people:We often idealize them, expecting our future selves to do what our present selves cannot manage. Sometimes we simply misunderstand them, failing to realize that they will have the same thoughts and feelings as our present selves. 
 
 ### 6.1.2 Wait Another 10 Minute
-	- Institute a mandatory ten-minute wait for any temptation OR “Do ten minutes, then you can quit.” Before the time is up, bring to mind the competing long-term reward of resisting temptation.
-	- When immediate gratification comes with a mandatory ten-minute delay, the brain treats it like a future reward. The promise-of-reward system is less activated, taking away the powerful biological impulse to choose immediate gratification. 
+1. Institute a mandatory ten-minute wait for any temptation OR “Do ten minutes, then you can quit.” Before the time is up, bring to mind the competing long-term reward of resisting temptation.
+1. When immediate gratification comes with a mandatory ten-minute delay, the brain treats it like a future reward. The promise-of-reward system is less activated, taking away the powerful biological impulse to choose immediate gratification. 
 
 ### 6.1.3 Make Future Self Feels Real
-	- Create a Future Memory: if you’re trying to decide between starting a project now or putting it off, imagine yourself grocery shopping next week, or at a meeting you have scheduled. When you picture the future, the brain begins to think more concretely and immediately about the consequences of your present choices. 
-	- Imagine Your Future Self: Imagine a hoped-for future self who is committed to the change, and reaping the benefits? Or a future self suffering the consequences of not changing? Let yourself daydream in vivid detail, imagining how you will feel, how you will look, and what pride, gratitude, or regret you will have for your past self ’s choices.
+1. Create a Future Memory: if you’re trying to decide between starting a project now or putting it off, imagine yourself grocery shopping next week, or at a meeting you have scheduled. When you picture the future, the brain begins to think more concretely and immediately about the consequences of your present choices. 
+1. Imagine Your Future Self: Imagine a hoped-for future self who is committed to the change, and reaping the benefits? Or a future self suffering the consequences of not changing? Let yourself daydream in vivid detail, imagining how you will feel, how you will look, and what pride, gratitude, or regret you will have for your past self ’s choices.
